@@ -1,0 +1,9 @@
+C:\Users\naim1\Desktop\Debugg crouch\bin\Debug\RagePluginHook.dll
+C:\Users\naim1\Desktop\Debugg crouch\bin\Debug\RagePluginHook.xml
+C:\Users\naim1\Desktop\Debugg crouch\obj\Debug\Debugg crouch.csproj.AssemblyReference.cache
+C:\Users\naim1\Desktop\Debugg crouch\obj\Debug\Debugg crouch.csproj.CoreCompileInputs.cache
+C:\Users\naim1\Desktop\Debugg crouch\obj\Debug\Debugg crouch.csproj.CopyComplete
+C:\Users\naim1\Desktop\Debugg crouch\bin\Debug\DebuggCrouch.dll
+C:\Users\naim1\Desktop\Debugg crouch\bin\Debug\DebuggCrouch.pdb
+C:\Users\naim1\Desktop\Debugg crouch\obj\Debug\DebuggCrouch.dll
+C:\Users\naim1\Desktop\Debugg crouch\obj\Debug\DebuggCrouch.pdb

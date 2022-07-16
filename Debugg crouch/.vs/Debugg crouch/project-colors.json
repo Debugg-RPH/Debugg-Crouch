@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "507993f0-a477-4348-acd7-070cdbed083c": {
+      "ProjectGuid": "507993f0-a477-4348-acd7-070cdbed083c",
+      "DisplayName": "Debugg crouch",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
